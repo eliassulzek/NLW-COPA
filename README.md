@@ -11,10 +11,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="">
-</p>
-
 <br>
 
 <p align="center">
